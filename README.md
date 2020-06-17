@@ -1,1 +1,1 @@
-# BIR-Lab.github.io
+# BIR Lab @ SCUT
