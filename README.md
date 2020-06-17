@@ -1,1 +1,1 @@
-# BIR-Lab @ SCUT
+# BIR Lab @ SCUT
